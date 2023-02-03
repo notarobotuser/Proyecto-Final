@@ -99,7 +99,22 @@ box-shadow: 0 35px 55px rgba(0,0,0,0.1);
     color: white;
     font-weight: 300;
   }
-
+  .info-contacto ul li a:link {
+    color: white;
+    font-weight: 300;
+  }
+  .info-contacto ul li a:visited {
+    color: white;
+    font-weight: 300;
+  }
+  .info-contacto ul li a:hover {
+    color: #15ca24;
+  }
+  #ubicacion {
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+  }
 
 /* CAPACIDADES: HTML, CSS, PAQ OFFICE, ADOBE */
   .info-contacto-capacidades {
